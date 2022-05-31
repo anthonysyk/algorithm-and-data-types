@@ -4,6 +4,8 @@ import (
 	"fmt"
 	"math/rand"
 	"time"
+
+	"github.com/brianvoe/gofakeit/v6"
 )
 
 func PopulateRandom(nbNodes, nbContactsPerUser int, graph ContactGraph) []string {

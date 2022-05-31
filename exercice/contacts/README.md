@@ -1,4 +1,4 @@
-# Test
+# Contact Graph
 
 ## How to run the test
 ```
